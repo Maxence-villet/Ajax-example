@@ -9,5 +9,10 @@
     <button id="btn-rechercher">Rechercher</button>
     <div id="resultat"></div>
     <script src="scripts.js"></script>
+
+    <form id="myForm">
+    <input type="text" id="dataToInsert" placeholder="Entrez votre donnée">
+    <button type="button" id="btn-recherche">Insérer</button>
+</form>
 </body>
 </html>
